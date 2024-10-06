@@ -4,7 +4,7 @@ title: "My Guernica"
 author: "Alitexas"
 categories: gallery
 tags: [sample]
-image: cuba-2.jpg
+image: my-guernica.jpg
 ---
 
 Sample text
