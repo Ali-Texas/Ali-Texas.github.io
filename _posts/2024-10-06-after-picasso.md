@@ -7,4 +7,3 @@ tags: [sample]
 image: after-picasso.jpg
 ---
 
-Sample text2
