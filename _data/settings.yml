@@ -10,7 +10,7 @@ menu:
 # - {name: 'Interesting Facts',  url: 'facts'}
 # - {name: 'Learning Resources', url: 'resources'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Gallery',      url: 'documentation'}
+- {name: 'Gallery',      url: 'gallery'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
