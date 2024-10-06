@@ -7,4 +7,3 @@ tags: [sample]
 image: my-guernica.jpg
 ---
 
-Sample text
