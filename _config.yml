@@ -1,4 +1,6 @@
 # Site Build Settings
+hide_post_share: true
+hide_post_date: true
 
 # jekyll-paginate configuration
 paginate:            5
