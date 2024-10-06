@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
+title: Welcome to my website!
+image: my-guernica.jpg
 ---
-### Welcome to my website
 
 ### The site is currently under construction
 
