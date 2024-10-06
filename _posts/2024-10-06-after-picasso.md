@@ -4,7 +4,7 @@ title: "After Picasso"
 author: "Alitexas"
 categories: gallery
 tags: [sample]
-image: cuba-2.jpg
+image: after-picasso.jpg
 ---
 
 Sample text2
