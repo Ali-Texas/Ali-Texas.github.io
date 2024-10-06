@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Welcome to my website!
-image: my-guernica.jpg
 ---
 
 ### The site is currently under construction
