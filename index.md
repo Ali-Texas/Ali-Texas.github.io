@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Welcome to my website
+title: "Welcome to my website"
+image: after-picasso.jpg
 ---
 
 ### The site is currently under construction
